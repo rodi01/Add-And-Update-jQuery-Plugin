@@ -1,3 +1,14 @@
+/* --
+http://github.com/oncemade/Add-And-Update-jQuery-Plugin
+Add and Update for jQuery.
+Written by Rodrigo Soares (oncemade{at}gmail.com) Jul 2010.
+jQuery Plugin Framework by Keith Wood (http://keith-wood.name/pluginFramework.html)
+
+Dual licensed under the GPL (http://dev.jquery.com/browser/trunk/jquery/GPL-LICENSE.txt) and 
+MIT (http://dev.jquery.com/browser/trunk/jquery/MIT-LICENSE.txt) licenses. 
+Please attribute the author if you use it. 
+-- */
+
 ;(function($) {
 var PROP_NAME = 'addAndUpdate';
 
